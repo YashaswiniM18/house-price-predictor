@@ -1,3 +1,16 @@
-housing.xlsx
+# Ignore all datasets
 *.csv
 *.xlsx
+
+# Ignore model files
+*.pkl
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
