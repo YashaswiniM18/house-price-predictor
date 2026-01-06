@@ -36,7 +36,4 @@ The target variable is **house price**.
 
 ---
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YashaswiniM18/task1-maincraft.git
+
